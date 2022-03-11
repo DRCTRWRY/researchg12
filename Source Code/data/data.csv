@@ -1,0 +1,45 @@
+sex,age,fav_sns,n_sns,n_stud,gpa_1,gpa_2,gpa_mean,rate_1,sns_use,int_acc,p_mean,p1,p2,p3,p4,p5,p6
+Male,19,Tiktok,2,2,81,81,81,8,For communication purposes,No,7.67,8,8,8,8,7,7
+Male,17,Instagram,10,7,93,96,94.5,8,For entertainment,Yes,10.00,10,10,10,10,10,10
+Female,18,Facebook,5,10,95.5,96.5,96,7,For school purposes (group files and other document),No,7.83,9,7,7,7,8,9
+Female,17,Twitter,10,8,92,92,92,5,For school purposes (group files and other document),Yes,5.67,4,7,9,5,5,4
+Female,17,Youtube,8,4,84,88,86,4,For entertainment,Yes,8.17,8,9,9,6,8,9
+Male,17,Facebook,7,5,93,94,93.5,5,For communication purposes,Yes,5.83,7,10,7,1,4,6
+Male,19,Facebook,3,8,96,95.75,95.88,8,For school purposes (group files and other document),Yes,7.67,8,10,10,5,4,9
+Male,17,Reddit,2,4,87,90,88.5,7,For school purposes (group files and other document),Yes,7.50,5,10,10,5,10,5
+Female,19,Tiktok,8,8,87,88,87.5,10,For communication purposes,Yes,8.33,10,10,10,2,8,10
+Male,18,Facebook,3,7,89,94,91.5,8,For school purposes (group files and other document),Yes,5.33,5,6,6,4,6,5
+Male,17,Facebook,12,8,92,94,93,7,For communication purposes,Yes,7.00,6,8,8,5,7,8
+Female,18,Facebook,12,12,97,97,97,8,For school purposes (group files and other document),Yes,8.00,8,8,8,8,8,8
+Female,17,Tiktok,12,10,92.13,93.75,92.94,10,For communication purposes,Yes,10.00,10,10,10,10,10,10
+Male,17,Facebook,8,9,95,94.5,94.75,8,For communication purposes,Yes,8.33,8,9,10,8,7,8
+Male,17,Twitter,5,6,94,95,94.5,7,For social trends and global/local updates,Yes,9.17,9,9,10,9,9,9
+Female,18,Tiktok,3,3,94.25,95.36,94.81,10,For school purposes (group files and other document),Yes,9.67,10,10,10,10,10,8
+Male,17,Facebook,6,7,93,92,92.5,9,For social trends and global/local updates,No,8.83,8,9,9,9,9,9
+Female,17,Twitter,6,8,92,94,93,6,For school purposes (group files and other document),Yes,7.33,8,7,8,9,5,7
+Male,17,YouTube ,10,10,94,95,94.5,5,For social trends and global/local updates,Yes,8.67,10,8,8,10,8,8
+Female,17,Facebook,4,5,97,97,97,9,For communication purposes,Yes,9.00,10,10,10,6,8,10
+Female,17,Tiktok,7,6,94,95,94.5,8,For communication purposes,Yes,8.33,7,10,9,8,6,10
+Female,17,Instagram,4,6,90,91,90.5,6,For social trends and global/local updates,Yes,8.00,8,10,9,5,6,10
+Female,17,Facebook,8,8,91,95,93,5,For school purposes (group files and other document),No,8.83,8,10,10,5,10,10
+Female,17,Facebook,5,8,98,98,98,6,For school purposes (group files and other document),Yes,9.50,10,10,10,7,10,10
+Female,17,Tiktok,7,7,92,93,92.5,8,For school purposes (group files and other document),No,7.33,7,10,8,5,6,8
+Female,17,Tiktok,18,10,81,89,85,8,For entertainment,Yes,8.83,9,10,9,7,9,9
+Female,17,Facebook,8,8,90,91,90.5,10,For school purposes (group files and other document),Yes,9.50,10,10,8,10,10,9
+Male,17,Tiktok,5,12,95,95,95,10,For school purposes (group files and other document),Yes,7.83,8,8,7,8,8,8
+Male,17,Facebook,5,7,93,94,93.5,8,For entertainment,Yes,9.00,9,9,9,9,9,9
+Female,18,Tiktok,5,2,93,94,93.5,7,For entertainment,No,8.67,8,9,8,9,9,9
+Female,17,Facebook,8,6,94,95,94.5,10,For school purposes (group files and other document),Yes,8.83,9,10,10,6,9,9
+Male,19,Facebook,10,10,94,95,94.5,7,For school purposes (group files and other document),No,7.00,8,8,8,5,8,5
+Male,18,Facebook,3,7,92.37,94,93.19,9,For school purposes (group files and other document),Yes,10.00,10,10,10,10,10,10
+Female,18,Facebook,7,8,84,85,84.5,5,For communication purposes,Yes,6.83,6,8,6,7,7,7
+Female,18,Instagram,12,8,90,91,90.5,5,For social trends and global/local updates,No,5.33,5,9,5,3,5,5
+Female,18,Instagram,6,7,93.25,95.75,94.5,6,For social trends and global/local updates,No,7.17,8,8,7,6,7,7
+Female,18,Tiktok,3,6,89,92,90.5,9,For entertainment,Yes,9.33,10,10,9,9,9,9
+Male,17,Tiktok,5,5,90,92,91,8,For school purposes (group files and other document),Yes,8.17,8,10,8,8,8,7
+Male,17,Instagram,10,8,93,96,94.5,9,For communication purposes,No,8.67,9,10,8,9,8,8
+Female,18,Tiktok,8,6,83.87,87.12,85.50,8,For communication purposes,No,8.17,7,8,8,9,9,8
+Male,17,Facebook,3,4,92.25,94.35,93.3,5,For communication purposes,Yes,7.33,8,9,10,5,7,5
+Male,18,Facebook,7,10,93,93,93,7,For entertainment,Yes,8.00,8,10,7,6,8,9
+Female,17,Tiktok,3,10,89.88,92.13,91.01,6,For school purposes (group files and other document),No,7.17,6,7,6,8,10,6
+Female,18,Facebook,7,8,90.5,93,91.75,8,For communication purposes,No,6.83,8,8,7,4,6,8
